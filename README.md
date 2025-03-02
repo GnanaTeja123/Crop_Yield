@@ -36,3 +36,4 @@ python scripts/train_model.py
 This will save the trained model as models/crop_yield_model.pkl.
 3)Run the Streamlit App
 streamlit run app/app.py
+This will launch an interactive web app where you can input climate conditions and get predicted crop yield.
